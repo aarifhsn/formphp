@@ -20,7 +20,7 @@
 
 
     <!-- text input  -->
-    <form method="POST" action="message.html">
+    <form method="POST" action="message.php">
     
         <div class="form_text my-6">
             <label for="name">Name</label>
